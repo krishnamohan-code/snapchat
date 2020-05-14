@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: sans-serif;
 }
 
 #size {
@@ -32,6 +33,7 @@ nav ul li {
 h2 {
   padding: 20px;
   margin-left: 500px;
+  font-size: 50px;
 }
 .button-1 {
   background: white;
@@ -92,6 +94,7 @@ h2 {
   position: relative;
   left: -900px;
   padding: 4%;
-  border-radius: 1em;
+  border-radius: 0.5em;
   width: 200px;
+  cursor: pointer;
   }
